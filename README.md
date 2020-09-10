@@ -1,2 +1,2 @@
-# emp
+# EMP
 Edge management platform
