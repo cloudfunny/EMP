@@ -14,7 +14,7 @@
  - Infrastructure Edge 边缘的 Edge 站点： 作为实际运行 workloads 的站点，与 Edge Devices
 进行交换。运行 Edge 的工作流。
 
-# Components:
+# Components
 由于 平台组件会分布在三级站点，所有根据组件所在位置，可以进行如下划分：
 - Centralized Data center:
     - authentication
